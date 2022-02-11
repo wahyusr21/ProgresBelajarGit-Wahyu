@@ -17,3 +17,13 @@ Belajar kelas Memulai Pengenalan Terhadap GitHub. (Progres 56%)
 
   * Belajar mengenail nomenklatur yang ada pada GitHub.
 
+***28 Februari 2022***    
+
+Belajar kelas Memulai Pengenalan Terhadap GitHub. (Progres 100%)
+
+  * Belajar **Markdown**.
+
+  * Belajar *Pengaplikasian* Markdown.
+  
+
+
