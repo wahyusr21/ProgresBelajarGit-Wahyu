@@ -6,3 +6,5 @@ if wahyu < 1 :
    print('Wahyu loves Ana')
 else :
    print('Ana loves Wahyu')
+if 'Wahyu loves Ana' = True :
+   print('Ana jadi Mualaf')
