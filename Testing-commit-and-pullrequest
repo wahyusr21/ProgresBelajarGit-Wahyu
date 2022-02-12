@@ -4,3 +4,5 @@ import pandas as pd
 wahyu = 1
 if wahyu < 1 :
    print('Wahyu loves Ana')
+else :
+   print('Ana loves Wahyu')
